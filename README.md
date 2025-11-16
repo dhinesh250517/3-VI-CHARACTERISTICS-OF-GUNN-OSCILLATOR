@@ -68,6 +68,10 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 | 8    | 4.3                    | 180                      |
 | 9    | 5.0                    | 165                      |
 
+**Graph:**
+
+<img src="https://github.com/user-attachments/assets/192b6d90-5056-4818-a25a-96e2776e0a30" width="400">
+
 
 **Observation Analysis**
 
@@ -111,6 +115,4 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 - The depth of modulation of the PIN diode can be obtained from the dB difference in the VSWR readings.  
 Hence, the experiment is successfully performed, and the negative differential resistance characteristics of the Gunn diode were verified.
 
-**Graph:**
 
-![WhatsApp Image 2025-11-09 at 06 18 11_96de9192](https://github.com/user-attachments/assets/192b6d90-5056-4818-a25a-96e2776e0a30)
